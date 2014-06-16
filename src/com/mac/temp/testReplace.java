@@ -7,7 +7,7 @@ import java.util.Hashtable;
 
 import org.junit.Test;
 
-public class testReplace {
+public class TestReplace {
 
 	@Test
 	public void test() {
